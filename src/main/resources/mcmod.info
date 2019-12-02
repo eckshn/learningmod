@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lm",
+  "name": "Learning Mod",
+  "description": "A mod created to understand the concepts of modding Minecraft.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eckart Schneider"],
+  "credits": "https://www.youtube.com/watch?v=f0zXArplb9Y&t=1012s",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
