@@ -1,5 +1,7 @@
 //Items
 item.silver_ingot.name=Silver Ingot
 item.send.name=Send
-//Blocks
+//Basic Blocks
 tile.solid_stone_block.name=Solid Stone
+//Property Blocks
+tile.holy_paper_block.name=Stack of Holy Papers
