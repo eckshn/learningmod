@@ -5,3 +5,4 @@ item.send.name=Send
 tile.solid_stone_block.name=Solid Stone
 //Property Blocks
 tile.holy_paper_block.name=Stack of Holy Papers
+tile.hell_fire_block.name=Hellfire Stone

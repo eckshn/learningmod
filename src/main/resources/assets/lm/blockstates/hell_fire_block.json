@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "lm:hell_fire_block" }
+    }
+}

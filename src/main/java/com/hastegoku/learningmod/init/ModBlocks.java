@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.hastegoku.learningmod.blocks.BlockBase;
+import com.hastegoku.learningmod.blocks.HellFireBlock;
 import com.hastegoku.learningmod.blocks.HolyPaperBlock;
 
 import net.minecraft.block.Block;
@@ -15,4 +16,5 @@ public class ModBlocks {
 	public static final Block SOLID_STONE_BLOCK = new BlockBase("solid_stone_block", Material.ROCK);
 	//New Property Block
 	public static final Block HOLY_PAPER_BLOCK = new HolyPaperBlock("holy_paper_block", Material.CRAFTED_SNOW);
+	public static final Block HELL_FIRE_BLOCK = new HellFireBlock("hell_fire_block", Material.ICE);
 }

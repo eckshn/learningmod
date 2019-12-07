@@ -1,5 +1,6 @@
 package com.hastegoku.learningmod;
 
+import com.hastegoku.learningmod.init.ModRecipes;
 import com.hastegoku.learningmod.proxy.CommonProxy;
 import com.hastegoku.learningmod.util.Reference;
 
@@ -27,7 +28,7 @@ public class Main {
 	@EventHandler
 	public static void Init(FMLInitializationEvent event)
 	{
-		
+		ModRecipes.init();
 	}
 	@EventHandler
 	public static void PostInit(FMLPostInitializationEvent event)
